@@ -4,8 +4,15 @@
         <description><![CDATA[aoa]]></description>
         <link>https://thegrid.ai/aoa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 07:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 07:09:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aoa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Liquid Intelligence the Science of Booze]]></title>
+            <description><![CDATA[<article><h1>Liquid Intelligence the Science of Booze</h1><p>In Dave Arnold's laboratory on the Lower East Side of Manhattan, you'll find cylinders of liquid nitrogen and a fold-up bike on the floor; wide-ranging books and liquor bottles on the walls; and an unruly workshop in the basement, where he experiments under the auspices of his food science development company, Booker and Dax Lab.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46d61d14-47ef-4c80-be4f-198611aafc3a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/aoa/liquid-intelligence-the-science-of-booze/index.html</link>
+            <guid isPermaLink="false">caf49563-1ded-485d-852b-db113a6cfe0a</guid>
+            <pubDate>Sat, 30 Apr 2016 07:08:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who's Behind the Cocktail Renaissance?]]></title>
             <description><![CDATA[<article><h1>Who's Behind the Cocktail Renaissance?</h1><p>We're living in a Golden Age of creativity for bartenders, many of whom are energetically pushing boundaries in both culinary and scientific ways - as I discovered when I was researching my article " Cocktail Science Simplified " in the latest issue of the magazine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7388eb8c72ef101c696b4afdfac2be47ab0c523b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/science/blog/2010/aug/23/science-art-whisky-making</link>
             <guid isPermaLink="false">4adf48cd-c174-4360-b0d0-164531dea22c</guid>
             <pubDate>Sat, 30 Apr 2016 06:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forty-Year-Old Gin? Fifty-Year-Old Whiskey? When Is a Spirit Too Old to Drink?]]></title>
-            <description><![CDATA[<article><h1>Forty-Year-Old Gin? Fifty-Year-Old Whiskey? When Is a Spirit Too Old to Drink?</h1><p>The first time I tasted a superaged spirit-a rare 50-year-old Glenfiddich single malt scotch-I was taken aback. Not by the whiskey itself, but by the rapturous swooning of the whiskey geeks all around me at a tasting hosted by the whiskey brand. "It's chewy," one commented, smacking his lips for emphasis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10cf710b8a463d6824e13ce020032719b4374704.jpg"></article>]]></description>
-            <link>http://www.slate.com/articles/life/drink/2013/03/superaged_spirits_how_old_is_too_old_for_whiskey_gin_and_chartreuse.html</link>
-            <guid isPermaLink="false">05488dee-1028-48d9-b687-c433c1680fe3</guid>
-            <pubDate>Sat, 30 Apr 2016 06:43:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
