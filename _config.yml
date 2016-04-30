@@ -1,7 +1,7 @@
 name: aoa
 favicon: null
 layout_spectrum: 0.6659302501939237
-typography_spectrum: 0.6364159705117345
+typography_spectrum: 0.22662
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#121212'
+    - '#a5a5a5'
+    - '#4c4c4c'
+    - '#c8c8c8'
   brandStrength: 0
   lightness: 1
   saturation: 1
