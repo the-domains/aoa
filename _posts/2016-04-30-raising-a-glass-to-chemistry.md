@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'One of the great things about “Breaking Bad” was that it emphasized just how much the magic of intoxication depends on science. Walter White may have been a meth dealer and a criminal mastermind, but he was, above all, a really good chemist.'
-datePublished: '2016-04-30T13:28:59.404Z'
-dateModified: '2016-04-30T13:28:53.289Z'
+datePublished: '2016-04-30T13:35:15.054Z'
+dateModified: '2016-04-30T13:35:09.699Z'
 title: Raising a Glass to Chemistry
 author:
   - name: ' GREGORY COWLES'
@@ -39,11 +39,6 @@ How important is yeast? In 1996, it became the first eukaryotic organism to have
 There are many strains of yeast and many sources of sugar, [leading to many kinds of alcohol][0]. "In early America, colonists fermented just about everything they could find," Mr. Rogers writes: "pumpkins, maple, persimmons and especially apples." Fermented barley, which is to say beer, didn't replace hard cider as the drink of choice in America until the arrival of German and Dutch immigrants in the 1800s.
 
 This leads Mr. Rogers to a discussion of malting --- essentially, coaxing barley to convert its starch to sugar --- which in turn leads to a discussion of whiskey and distillation. (Other cultures have used other tricks to turn starch into sugar, including gnawing on grain and spitting it out so the enzymes in saliva can break it down. Talk about small-batch brewing.)
-
-Photo
-![](https://static01.nyt.com/images/2014/07/22/science/22SCIB/22SCIB-master180.jpg)
-
-CreditAlessandra Montalto/The New York Times
 
 He illustrates his lessons with a series of field trips to labs and industrial production facilities, barhopping from factory to factory. He introduces us to the man with "quite possibly the single greatest title in all of academia" ---[Charlie Bamforth][1], the Anheuser-Busch endowed professor of brewing science at the University of California, Davis, who teaches Mr. Rogers about foam and effervescence in beer. He discusses the potential of gas chromatography to detect alcoholic forgeries trying to be passed off off as premium brands. He visits a small distillery in New York that has played loud dance music overnight, in hopes the deep bass would agitate the molecules in the liquid and help develop a fuller flavor.
 
