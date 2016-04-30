@@ -1,22 +1,30 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: 'One of the great things about “Breaking Bad” was that it emphasized just how much the magic of intoxication depends on science. Walter White may have been a meth dealer and a criminal mastermind, but he was, above all, a really good chemist.'
-dateModified: '2016-04-30T13:24:55.816Z'
+datePublished: '2016-04-30T13:28:59.404Z'
+dateModified: '2016-04-30T13:28:53.289Z'
 title: Raising a Glass to Chemistry
 author:
   - name: ' GREGORY COWLES'
     url: 'http://www.nytimes.com/2014/07/22/science/proof-drinks-in-the-science-of-alcohol.html?_r=0'
-datePublished: '2016-04-30T13:25:15.355Z'
-isBasedOnUrl: 'http://www.nytimes.com/2014/07/22/science/proof-drinks-in-the-science-of-alcohol.html?_r=0'
-starred: false
 sourcePath: _posts/2016-04-30-raising-a-glass-to-chemistry.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: raising-a-glass-to-chemistry/index.html
+_type: Article
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df63707b-f5dc-4738-a7e6-589fbdcc2a81.jpg" /><h1>Raising a Glass to Chemistry</h1><p>'Proof' Drinks in the Science of Alcohol</p></article>
+<article style=""><h1>Raising a Glass to Chemistry</h1><p>'Proof' Drinks in the Science of Alcohol</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1279a01cc7f3213240a8746e7231bad662edf765.jpg" /></article>
 
 One of the great things about "Breaking Bad" was that it emphasized just how much the magic of intoxication depends on science. Walter White may have been a meth dealer and a criminal mastermind, but he was, above all, a really good chemist.
 
