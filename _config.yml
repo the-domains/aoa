@@ -2,6 +2,7 @@ name: aoa
 favicon: null
 layout_spectrum: 0.6659302501939237
 typography_spectrum: 0.29209
+style: the-composer
 cta:
   domain: null
   bucket: null
