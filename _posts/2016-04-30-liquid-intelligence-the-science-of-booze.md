@@ -20,8 +20,8 @@ description: >-
   books and liquor bottles on the walls; and an unruly workshop in the basement,
   where he experiments under the auspices of his food science development
   company, Booker and Dax Lab.
-datePublished: '2016-07-27T21:56:34.997Z'
-dateModified: '2016-07-27T21:56:34.463Z'
+datePublished: '2016-07-27T22:39:20.520Z'
+dateModified: '2016-07-27T22:39:19.976Z'
 author: []
 related: []
 app_links:
