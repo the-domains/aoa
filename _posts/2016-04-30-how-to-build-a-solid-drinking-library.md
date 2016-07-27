@@ -1,9 +1,7 @@
 ---
-datePublished: '2016-07-21T02:22:04.076Z'
+datePublished: '2016-07-27T20:26:53.078Z'
 sourcePath: _posts/2016-04-30-how-to-build-a-solid-drinking-library.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.nytimes.com/2015/02/22/magazine/how-to-build-a-solid-drinking-library.html
 keywords:
   - book
   - bar
@@ -18,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-21T02:22:03.265Z'
+dateModified: '2016-07-27T20:26:52.616Z'
 title: How to Build a Solid Drinking Library
 app_links:
   - url: 'nytimes://reader/id/100000003508951'
@@ -58,7 +56,9 @@ description: >-
   little town of Hoosick, N.Y. Conveniently, it's just a little ways down Route
   7 from the Man of Kent, one of America's best bars.
 inLanguage: en
+hasPage: true
 starred: false
+url: how-to-build-a-solid-drinking-library/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
