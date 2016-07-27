@@ -14,9 +14,14 @@ keywords:
   - writes
   - lab
   - gin
-description: "In Dave Arnold's laboratory on the Lower East Side of Manhattan, you'll find cylinders of liquid nitrogen and a fold-up bike on the floor; wide-ranging books and liquor bottles on the walls; and an unruly workshop in the basement, where he experiments under the auspices of his food science development company, Booker and Dax Lab."
-datePublished: '2016-04-30T07:08:48.460Z'
-dateModified: '2016-04-30T07:08:39.148Z'
+description: >-
+  In Dave Arnold's laboratory on the Lower East Side of Manhattan, you'll find
+  cylinders of liquid nitrogen and a fold-up bike on the floor; wide-ranging
+  books and liquor bottles on the walls; and an unruly workshop in the basement,
+  where he experiments under the auspices of his food science development
+  company, Booker and Dax Lab.
+datePublished: '2016-07-27T21:56:34.997Z'
+dateModified: '2016-07-27T21:56:34.463Z'
 author: []
 related: []
 app_links:
@@ -25,7 +30,7 @@ app_links:
     namespace: ai
     app_store_id: '306621789'
     app_name: The Huffington Post
-  - path: 'huffpostnews/?editionID=us&entryID=6128856'
+  - path: huffpostnews/?editionID=us&entryID=6128856
     package: '306621789'
     namespace: google
     type: ios
@@ -36,9 +41,9 @@ publisher:
   domain: www.huffingtonpost.com
   url: 'http://www.huffingtonpost.com'
   favicon: 'http://s.m.huffpost.com/assets/favicon-7dbb4d55ca85abd9f84197a1c3525e38.ico'
-starred: false
 sourcePath: _posts/2016-04-30-liquid-intelligence-the-science-of-booze.md
-published: true
+via: {}
+starred: false
 url: liquid-intelligence-the-science-of-booze/index.html
 _context: 'http://schema.org'
 _type: MediaObject
