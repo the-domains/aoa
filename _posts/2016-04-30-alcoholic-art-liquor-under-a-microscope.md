@@ -28,8 +28,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: 'Alcoholic Art: Liquor Under a Microscope'
-datePublished: '2016-07-27T20:25:52.455Z'
-dateModified: '2016-07-27T20:25:51.716Z'
+datePublished: '2016-07-27T23:50:18.598Z'
+dateModified: '2016-07-27T23:50:18.109Z'
 sourcePath: _posts/2016-04-30-alcoholic-art-liquor-under-a-microscope.md
 hasPage: true
 via: {}
