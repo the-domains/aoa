@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-27T20:26:53.078Z'
+datePublished: '2016-07-28T00:49:48.014Z'
 sourcePath: _posts/2016-04-30-how-to-build-a-solid-drinking-library.md
 inFeed: true
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-27T20:26:52.616Z'
+dateModified: '2016-07-28T00:49:47.442Z'
 title: How to Build a Solid Drinking Library
 app_links:
   - url: 'nytimes://reader/id/100000003508951'
